@@ -16,7 +16,7 @@ long_description = "\n\n".join(
 
 setup(
     name="affinitic.privatefolder",
-    version="1.0a1.dev0",
+    version="1.0",
     description="Folderish content type with only one private state",
     long_description=long_description,
     # Get more from https://pypi.org/classifiers/
